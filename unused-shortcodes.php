@@ -1,16 +1,16 @@
 <?php
    /*
    Plugin Name: Unused Shortcodes
-   Plugin URI: http://oizuled.com/wordpress-plugins/wordpress-unused-shortcodes
-   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RSFSXVJG5E9HW
+   Plugin URI: https://surpriseazwebservices.com/wordpress-plugins/wordpress-unused-shortcodes/
+   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4CZMFDE6YG95L
    Description: A plugin to display shortcodes that are not currently being used on a WordPress site.
-   Version: 1.0
+   Version: 1.0.1
    Author: Scott DeLuzio
-   Author URI: http://oizuled.com
+   Author URI: https://surpriseazwebservices.com
    License: GPL2
    */
    
-	/*  Copyright 2013  Scott DeLuzio  (email : scott (at) oizuled.com)
+	/*  Copyright 2013  Scott DeLuzio  (email : scott (at) surpriseazwebservices.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
