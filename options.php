@@ -13,12 +13,12 @@
 	</div>
 	<div class="postbox">
 		<p><?php _e('If this plugin has helped you out at all, please consider making a donation to encourage future updates.<br />Your generosity is appreciated!', 'unused_sc_lang'); ?></p>
-			<a href="#" onclick="window.open('https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RSFSXVJG5E9HW');">
+			<a href="#" onclick="window.open('https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4CZMFDE6YG95L');">
 				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" width="147" height="47">
 			</a>
 		<p><?php _e('To report any issues with', 'unused_sc_lang'); ?> <strong><?php _e('this plugin', 'unused_sc_lang'); ?></strong><?php _e(', please visit the ', 'unused_sc_lang'); ?><a href="http://wordpress.org/support/plugin/unused-shortcodes"><?php _e('support page on WordPress.org', 'unused_sc_lang'); ?></a>.</p>
-		<p><?php _e('For all other WordPress support, please check out the following', 'unused_sc_lang'); ?> <a href="http://oizuled.com/wordpress-site-setup/"><?php _e('WordPress site set-up', 'unused_sc_lang'); ?></a>, <a href="http://oizuled.com/wordpress-support-24x7-unlimited-fast-fixes/"><?php _e('WordPress support', 'unused_sc_lang'); ?></a><?php _e(', and other', 'unused_sc_lang'); ?> <a href="http://oizuled.com/live-wordpress-support-services/"><?php _e('WordPress training', 'unused_sc_lang'); ?></a> <?php _e('services', 'unused_sc_lang'); ?>.</p>
-		<p><a href="https://twitter.com/oizuled" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @oizuled</a>
+		<p><?php _e('For all other WordPress support, please check out the following', 'unused_sc_lang'); ?> <a href="https://surpriseazwebservices.com/services/wordpress-site-install/"><?php _e('WordPress site set-up', 'unused_sc_lang'); ?></a>, <a href="https://surpriseazwebservices.com/services/wordpress-maintenance-support/"><?php _e('WordPress support', 'unused_sc_lang'); ?></a><?php _e(', and other', 'unused_sc_lang'); ?> <a href="https://surpriseazwebservices.com/services/"><?php _e('WordPress training', 'unused_sc_lang'); ?></a> <?php _e('services', 'unused_sc_lang'); ?>.</p>
+		<p><a href="https://twitter.com/SurpriseWebSvc" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @SurpriseWebSvc</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
 	</div>
 </div>
